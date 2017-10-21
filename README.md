@@ -10,5 +10,6 @@ You can find more pictures and infos
 ## Links
 
 * ddprrt said on Twitter: Those are the slides I was talking about in Jürgen's session: https://t.co/pAF83X65CU
+* [Isomorphic web apps demo project](https://github.com/CHH/socrates-2017-universal-vue-apps)
 
 ## Info
