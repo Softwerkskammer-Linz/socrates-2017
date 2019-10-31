@@ -14,4 +14,6 @@ You can find more pictures and infos
 * [CoolTnT](https://gist.github.com/paulroho/460d6750ca9cd5bdf92faae451d90d43) @SoCraTesAT
 * paulroho said on Twitter: "These are the inputs from the inspiring [learning/knowledge sharing session](https://twitter.com/paulroho/status/922021761461473280) at @SoCraTesAT"
 
-## Info
+## Sessions
+
+- [A Microservice Calculator with Go, Docker and Kubernetes by Markus Zimmermann (Symflower)](https://github.com/symflower/sessions/tree/master/2017/socrates-linz-microservice-calculator)
